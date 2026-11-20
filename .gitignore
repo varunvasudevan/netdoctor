@@ -1,0 +1,8 @@
+# scan results contain hostnames, IP and MAC addresses, Wi-Fi names
+netdoctor-reports/
+*.json
+!go.*.json
+
+# build output
+*.exe
+*.exe~
